@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
       - name: hello
-        image: karthik0307/newimage1:latest
+        image: karthik2607/newimage:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 80
